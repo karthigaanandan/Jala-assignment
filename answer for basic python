@@ -1,5 +1,0 @@
-person = input('Enter your name')
-print('Hello ', person)
-
-output: Enter your name Karthiga
-Hello   Karthiga
